@@ -1,10 +1,5 @@
 
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
-
-  </a>
-
  ## finonex assignment running instructions
 
 
