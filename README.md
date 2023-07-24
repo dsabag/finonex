@@ -29,3 +29,6 @@
    npm run processor
    ```   
 
+
+keep in mind:
+for every file post runtime change, a processor restart should be manually triggered
