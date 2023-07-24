@@ -1,9 +1,5 @@
 
 <div align="center">
- ## finonex assignment running instructions
-
-
-
 
 ###   Installation
 
